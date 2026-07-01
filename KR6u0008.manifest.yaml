@@ -1,0 +1,41 @@
+canonical_identifier: bkk:krp/KR6u0008/v1
+canonical_location: https://kanripo.org/bkk/KR6u0008/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 妙法蓮華經度量天地品第二十九
+  identifiers:
+    alt_id:
+    - T85n2872
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2872.xml
+    old_id: T85n2872
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR6u0008_000.yaml, hash: 'sha256:8479e77e808c6c0df2685a7e9666ec4b07cf88579fbfe96c399b06cec1f81669'}
+  - {seq: 1, filename: KR6u0008_001.yaml, hash: 'sha256:c893f516826e67be2a50932d6773e6ca5c540057b0aa8a5316a29a4eb781ddd6'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6u0008_001.markers.yaml, hash: 'sha256:03b797353cf5782721a6b4b7b1b224dacdf882935f8f81ef85b68fd48b407bf1'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6u0008_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 449
+  label: '妙法蓮華經度量天地品第二
+
+    十九'
+  type: juan
+  level: 1
+hash: sha256:d6ca88b753fc96d7bfe11fd6a6b37cb14704e45e4269aef4158c24d6867b14f6
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+editions:
+- short: T

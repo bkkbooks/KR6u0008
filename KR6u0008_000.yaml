@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6u0008/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 妙法蓮華經度量天地品第二十九
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2872.xml
+    old_id: T85n2872
+hash: sha256:8479e77e808c6c0df2685a7e9666ec4b07cf88579fbfe96c399b06cec1f81669
